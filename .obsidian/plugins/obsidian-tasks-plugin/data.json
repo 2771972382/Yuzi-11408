@@ -65,7 +65,9 @@
   "generalSettings": {},
   "headingOpened": {
     "核心状态": true,
-    "自定义状态": true
+    "自定义状态": true,
+    "Core Statuses": true,
+    "Custom Statuses": true
   },
   "debugSettings": {
     "ignoreSortInstructions": false,
