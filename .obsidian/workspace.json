@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "测试"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "测试.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "测试 的大纲"
             }
           },
           {
@@ -187,8 +187,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "37f8f40eef564c7f",
+  "active": "24b67793f4447c56",
   "lastOpenFiles": [
+    "README.md",
+    "测试.md",
     "未命名.canvas",
     "Obsidian/教程.md",
     "Obsidian/讲解思路.md",
@@ -219,7 +221,6 @@
     "copy/408/OS/OS.md",
     "copy/408/OS/5. IO 管理.md",
     "copy/408/OS/4. 文件系统.md",
-    "copy/408/OS/3. 内存管理.md",
     "copy/408/OS",
     "copy/408/DS",
     "copy/408/CO",
@@ -234,7 +235,6 @@
     "copy/政治/新思想/c 布局安排/6 推动高质量发展/考点50 基本经济制度关系.canvas",
     "copy/政治/新思想/c 布局安排/12 建设社会主义生态文明/考点115 生态环境与经济发展关系.canvas",
     "copy/政治/新思想/b 基本问题/5 全面深化改革开放/考点38 划时代的转变.canvas",
-    "copy/政治/新思想/b 基本问题/3 坚持党的全面领导/考点26 中国特色社会主义制度体系与党的领导.canvas",
     "copy/政治/新思想/d 内外条件/16 中国特色大国外交和推动构建人类命运共同体",
     "copy/政治/新思想/d 内外条件/17 全面从严治党",
     "copy/政治/新思想/学科知识框架图.png",
