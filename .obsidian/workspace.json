@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "永远热烈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "永远热烈"
             }
           }
         ]
@@ -188,11 +188,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "37f8f40eef564c7f",
+  "active": "24b67793f4447c56",
   "lastOpenFiles": [
+    "README.md",
+    "永远热烈.md",
     "Obsidian/README.md",
     "未命名.canvas",
-    "README.md",
     "hahaha.md",
     "测试.md",
     "Obsidian/教程.md",
