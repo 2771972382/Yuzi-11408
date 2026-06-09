@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试.md",
+                "file": "hahaha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "hahaha"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试.md",
+                "file": "hahaha.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "测试 的大纲"
+              "title": "hahaha 的大纲"
             }
           },
           {
@@ -184,13 +184,15 @@
       "obsidian-git:Open Git source control": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "callout-manager:Insert Callout": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "24b67793f4447c56",
   "lastOpenFiles": [
-    "README.md",
     "测试.md",
+    "hahaha.md",
+    "README.md",
     "未命名.canvas",
     "Obsidian/教程.md",
     "Obsidian/讲解思路.md",
@@ -220,7 +222,6 @@
     "copy/408/OS/OS_3.md",
     "copy/408/OS/OS.md",
     "copy/408/OS/5. IO 管理.md",
-    "copy/408/OS/4. 文件系统.md",
     "copy/408/OS",
     "copy/408/DS",
     "copy/408/CO",
