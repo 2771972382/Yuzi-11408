@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ce41c8c6bbd98696","x":-180,"y":140,"width":320,"height":180,"type":"group","label":"动词v."},
+		{"id":"a6bb5531db6bdcea","type":"group","x":-180,"y":-105,"width":320,"height":176,"label":"名词n."},
+		{"id":"9efa4f53b900e798","type":"text","text":"国家治理体系","x":-160,"y":-85,"width":250,"height":60,"color":"3"},
+		{"id":"2af9e0d546d1ce1d","type":"text","text":"中国特色社会主义制度体系","x":-160,"y":-9,"width":250,"height":60,"color":"3"},
+		{"id":"dc5513545403b782","type":"text","text":"核心","x":220,"y":-39,"width":250,"height":60,"color":"3"},
+		{"id":"5ab7317375dd3436","type":"text","text":"中国特色社会主义制度建设","x":-160,"y":160,"width":250,"height":60,"color":"3"},
+		{"id":"0fdde08cd09bc557","type":"text","text":"国家治理体系和治理能力现代化","x":-160,"y":240,"width":270,"height":60,"color":"3"},
+		{"id":"3ada129d8bb8e710","type":"text","text":"关键","x":220,"y":190,"width":250,"height":60,"color":"3"},
+		{"id":"d3d8dd0c2edf66f9","type":"text","text":"党的领导是","x":-520,"y":80,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"22bcc5e61abad770","fromNode":"d3d8dd0c2edf66f9","fromSide":"right","toNode":"a6bb5531db6bdcea","toSide":"left"},
+		{"id":"43aa598635762ad6","fromNode":"d3d8dd0c2edf66f9","fromSide":"right","toNode":"ce41c8c6bbd98696","toSide":"left"},
+		{"id":"4e5a61afba66195e","fromNode":"a6bb5531db6bdcea","fromSide":"right","toNode":"dc5513545403b782","toSide":"left","label":"的"},
+		{"id":"5ee272bf978c02ef","fromNode":"ce41c8c6bbd98696","fromSide":"right","toNode":"3ada129d8bb8e710","toSide":"left","label":"的"}
+	]
+}

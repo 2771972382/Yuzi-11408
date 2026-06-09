@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"88f6bc2c62c57092","type":"group","x":-300,"y":-89,"width":440,"height":180,"color":"3","label":"社会主义"},
+		{"id":"d5d4c44909278408","type":"text","text":"中国特色社会主义","x":-60,"y":-69,"width":180,"height":60,"color":"1"},
+		{"id":"5005475673de826d","type":"text","text":"公有（主体）+私有","x":-60,"y":11,"width":180,"height":60,"color":"1"},
+		{"id":"e4e2fe0991ea28ec","type":"text","text":"资本主义","x":180,"y":-69,"width":180,"height":60,"color":"5"},
+		{"id":"7b11b65a8d2e1692","type":"text","text":"私有制","x":180,"y":9,"width":180,"height":60,"color":"5"},
+		{"id":"ee686cfe0ca6eca1","type":"text","text":"社会主义","x":-280,"y":-69,"width":180,"height":60,"color":"2"},
+		{"id":"8abb3a29a4d95e59","type":"text","text":"公有制","x":-280,"y":11,"width":180,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"87665fbf5d953672","fromNode":"ee686cfe0ca6eca1","fromSide":"bottom","toNode":"8abb3a29a4d95e59","toSide":"top"},
+		{"id":"62ab0a3ba79df843","fromNode":"d5d4c44909278408","fromSide":"bottom","toNode":"5005475673de826d","toSide":"top"},
+		{"id":"dd9ef104d31ae53d","fromNode":"e4e2fe0991ea28ec","fromSide":"bottom","toNode":"7b11b65a8d2e1692","toSide":"top"},
+		{"id":"e2f6f9446cb12ef4","fromNode":"ee686cfe0ca6eca1","fromSide":"right","toNode":"d5d4c44909278408","toSide":"left"}
+	]
+}

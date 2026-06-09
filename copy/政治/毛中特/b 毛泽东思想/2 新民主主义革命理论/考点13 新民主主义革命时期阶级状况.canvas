@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"64deceab3d73fd91","type":"group","x":-280,"y":-100,"width":491,"height":200,"color":"2","label":"中间阶级"},
+		{"id":"d024721dd1ee0376","type":"text","text":"无产阶级","x":-148,"y":160,"width":191,"height":60,"color":"1"},
+		{"id":"239814e268aee2dd","type":"text","text":"农民","x":-260,"y":-36,"width":65,"height":60,"color":"3"},
+		{"id":"c283e71f91fe0bbe","type":"text","text":"城市小资产阶级","x":-131,"y":-36,"width":153,"height":60,"color":"3"},
+		{"id":"fb74e172a8aba6e3","type":"text","text":"其他中间阶级","x":60,"y":-36,"width":131,"height":60,"color":"3"},
+		{"id":"9124c97a6ed58609","type":"text","text":"大地主、大资产阶级","x":-143,"y":-220,"width":186,"height":60,"color":"5"}
+	],
+	"edges":[]
+}

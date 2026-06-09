@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "470f6f3a5e6f88e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e41a0a94216282c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24b67793f4447c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bc1d4b98e6672f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbfde94020db7715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f8f40eef564c7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a2dcea77f1a87c3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "eb396b5a5e008fb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8690fabddddba01a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8b3594a3a04ef2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c38f5f8c18c63b25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a33e821cf1c6aab8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "43db2db0c476903a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "自律 的反向链接列表"
+            }
+          },
+          {
+            "id": "3ba1c15db41d0f4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          },
+          {
+            "id": "a85b2ebf5d5b4642",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 465.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "37f8f40eef564c7f",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "Obsidian/教程.md",
+    "Obsidian/讲解思路.md",
+    "Obsidian/assets/Pasted image 20260202230956.png",
+    "Obsidian/assets/Pasted image 20260202230917.png",
+    "copy/数一/1 高数/1 函数 极限与连续/1-0 函数 极限与连续思维导图.md",
+    "copy",
+    "copy/数一/1 高数/3 微分中值定理/辅助函数技巧公式.md",
+    "copy/数一/1 高数/3 微分中值定理/罗尔定理推论.md",
+    "copy/数一/1 高数/3 微分中值定理/3-3 拉格朗日中值定理.md",
+    "copy/数一/1 高数/3 微分中值定理/3-1 费马引理.md",
+    "copy/408/CO/5. 中央处理器.md",
+    "copy/408/CO/6. 总线.md",
+    "copy/英一/小作文模板.md",
+    "copy/英一/小作文.md",
+    "copy/英一/翻译核心逻辑.pdf",
+    "copy/英一/翻译.md",
+    "copy/英一/大作文.md",
+    "copy/408/CN/5. 传输层.md",
+    "copy/408/CN/4. 网络层.md",
+    "copy/408/CN/3. 数据链路层.md",
+    "copy/408/CN/2. 物理层.md",
+    "copy/408/CN/1. 概述.md",
+    "copy/408/CN",
+    "copy/408/OS/OS_5.md",
+    "copy/408/OS/OS_4.md",
+    "copy/408/OS/OS_3.md",
+    "copy/408/OS/OS.md",
+    "copy/408/OS/5. IO 管理.md",
+    "copy/408/OS/4. 文件系统.md",
+    "copy/408/OS/3. 内存管理.md",
+    "copy/408/OS",
+    "copy/408/DS",
+    "copy/408/CO",
+    "copy/408",
+    "新建文件夹",
+    "copy/政治/新思想/c 布局安排/11 以保障和改善民生为重点加强社会建设/考点106 发展与民生的关系.canvas",
+    "copy/政治/新思想/d 内外条件/13 维护和塑造国家安全/考点125 发展和安全的关系.canvas",
+    "copy/政治/新思想/c 布局安排/6 推动高质量发展/考点55 国内循环与国际竞争.canvas",
+    "copy/政治/新思想/c 布局安排/6 推动高质量发展/考点54 国际国内双循环.canvas",
+    "copy/政治/新思想/c 布局安排/6 推动高质量发展/考点52 分配制度.canvas",
+    "copy/政治/新思想/c 布局安排/6 推动高质量发展/考点50 基本经济制度和高质量发展.canvas",
+    "copy/政治/新思想/c 布局安排/6 推动高质量发展/考点50 基本经济制度关系.canvas",
+    "copy/政治/新思想/c 布局安排/12 建设社会主义生态文明/考点115 生态环境与经济发展关系.canvas",
+    "copy/政治/新思想/b 基本问题/5 全面深化改革开放/考点38 划时代的转变.canvas",
+    "copy/政治/新思想/b 基本问题/3 坚持党的全面领导/考点26 中国特色社会主义制度体系与党的领导.canvas",
+    "copy/政治/新思想/d 内外条件/16 中国特色大国外交和推动构建人类命运共同体",
+    "copy/政治/新思想/d 内外条件/17 全面从严治党",
+    "copy/政治/新思想/学科知识框架图.png",
+    "copy/政治/史纲/c 新中国时期/8 中华人民共和国的成立与中国社会主义建设道路的探索/“一体两翼”（2025史纲）.png",
+    "copy/政治/史纲/学科知识框架图.png",
+    "copy/政治/史纲/1949-1978逻辑框架图.png",
+    "copy/政治/毛中特/b 毛泽东思想/3 社会主义改造理论/“一体两翼”（2025毛中特）.

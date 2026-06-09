@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3074c1168a065856","x":-240,"y":-120,"width":320,"height":240,"type":"group","label":"对立统一，可以相互促进"},
+		{"id":"c6bcd3a7e021c600","type":"text","text":"经济发展","x":-40,"y":-32,"width":100,"height":60,"color":"5"},
+		{"id":"0d9da26533608029","type":"text","text":"生态环境","x":-220,"y":-32,"width":100,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"2d3f05f5f3411ea3","fromNode":"0d9da26533608029","fromSide":"top","toNode":"c6bcd3a7e021c600","toSide":"top"},
+		{"id":"a8c7a320c5d4ceae","fromNode":"c6bcd3a7e021c600","fromSide":"bottom","toNode":"0d9da26533608029","toSide":"bottom"}
+	]
+}

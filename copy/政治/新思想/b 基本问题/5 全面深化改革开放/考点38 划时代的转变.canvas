@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"7210fb2d12a5ba68","type":"text","text":"现在","x":420,"y":-69,"width":250,"height":60},
+		{"id":"9d4f82c04fd80f35","type":"text","text":"1978","x":-520,"y":-69,"width":250,"height":60},
+		{"id":"fe6afe25ab5a627b","type":"text","text":"[[../../../史纲/c 新中国时期/9 改革开放与中国特色社会主义的开创与发展/考点96 十一届三中全会|十一届三中全会]] #十一届三中全会 ","x":-520,"y":-200,"width":250,"height":60,"color":"1"},
+		{"id":"ce02afe885b498ed","type":"text","text":"2013","x":-120,"y":-69,"width":250,"height":60},
+		{"id":"60ef5324e9f3aaf3","type":"text","text":"十八届三中全会 #十八届三中全会 ","x":-120,"y":-200,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"9763b0778a9a9bfd","fromNode":"9d4f82c04fd80f35","fromSide":"right","toNode":"ce02afe885b498ed","toSide":"left"},
+		{"id":"f28597db7d4f14de","fromNode":"ce02afe885b498ed","fromSide":"right","toNode":"7210fb2d12a5ba68","toSide":"left"},
+		{"id":"02f49b933afb59d5","fromNode":"fe6afe25ab5a627b","fromSide":"bottom","toNode":"9d4f82c04fd80f35","toSide":"top","label":"开启改革开放"},
+		{"id":"77cac0a9ab3d0b96","fromNode":"60ef5324e9f3aaf3","fromSide":"bottom","toNode":"ce02afe885b498ed","toSide":"top","label":"实现全面深化改革的转变"}
+	]
+}

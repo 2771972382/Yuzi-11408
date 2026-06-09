@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f7eda13a09b955f4","type":"text","text":"法治（全面依法治国）","x":20,"y":-10,"width":200,"height":60,"color":"2"},
+		{"id":"cfbeb12f5ba1c7ff","type":"text","text":"国家治理体系，治理能力现代化","x":-380,"y":-10,"width":261,"height":60,"color":"1"},
+		{"id":"cd0bd8205927baba","type":"text","text":"法治保障体系","x":340,"y":-10,"width":140,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"64620073237f03c4","fromNode":"cd0bd8205927baba","fromSide":"left","toNode":"f7eda13a09b955f4","toSide":"right","label":"依托"},
+		{"id":"68553117942cde85","fromNode":"f7eda13a09b955f4","fromSide":"left","toNode":"cfbeb12f5ba1c7ff","toSide":"right","label":"依托"}
+	]
+}

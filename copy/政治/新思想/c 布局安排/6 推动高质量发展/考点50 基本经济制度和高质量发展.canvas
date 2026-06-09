@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4100f2ac117fd1fd","x":-445,"y":3,"width":250,"height":60,"color":"1","type":"text","text":"基本经济制度"},
+		{"id":"f3c9db3d0781ccaf","x":280,"y":3,"width":250,"height":60,"color":"3","type":"text","text":"满足人民美好生活需要"},
+		{"id":"76a6c55a382f9b92","x":-100,"y":3,"width":250,"height":60,"color":"2","type":"text","text":"高质量发展"}
+	],
+	"edges":[
+		{"id":"43ef8b8cc82bee3b","fromNode":"4100f2ac117fd1fd","fromSide":"right","toNode":"76a6c55a382f9b92","toSide":"left","label":"保障"},
+		{"id":"4e38b22e41fa2e44","fromNode":"76a6c55a382f9b92","fromSide":"right","toNode":"f3c9db3d0781ccaf","toSide":"left","label":"重要保证"}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"47a195401ece27e1","type":"text","text":"党的领导 #党的领导","x":-386,"y":-114,"width":250,"height":60,"color":"1"},
+		{"id":"501227a5fb8b1087","type":"text","text":"党内法规","x":-386,"y":73,"width":250,"height":60,"color":"2"},
+		{"id":"635021ac0ee83d68","type":"text","text":"中国特色社会主义","x":60,"y":-114,"width":250,"height":60,"color":"2"},
+		{"id":"756d0f61aaf64597","type":"text","text":"中国特色社会主义法治体系","x":60,"y":73,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"533cebf6a243c511","fromNode":"47a195401ece27e1","fromSide":"bottom","toNode":"501227a5fb8b1087","toSide":"top"},
+		{"id":"695107a7db1b4212","fromNode":"47a195401ece27e1","fromSide":"right","toNode":"635021ac0ee83d68","toSide":"left","label":"本质特征"},
+		{"id":"9470b62786563bcb","fromNode":"635021ac0ee83d68","fromSide":"bottom","toNode":"756d0f61aaf64597","toSide":"top"},
+		{"id":"3f9f0504a5781ad6","fromNode":"501227a5fb8b1087","fromSide":"right","toNode":"756d0f61aaf64597","toSide":"left","label":"本质要求"}
+	]
+}

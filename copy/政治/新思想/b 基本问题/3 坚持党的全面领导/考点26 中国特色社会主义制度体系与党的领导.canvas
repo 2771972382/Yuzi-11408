@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"449a607a101e8830","type":"group","x":-180,"y":-83,"width":300,"height":423,"color":"2","label":"中国特色社会主义制度体系"},
+		{"id":"dc2eaa2428c6099a","type":"text","text":"人民代表大会制度 #人民代表大会制度","x":-120,"y":-60,"width":160,"height":60,"color":"1"},
+		{"id":"a2557821facfda6b","type":"text","text":"政协制度 #政协制度","x":-120,"y":40,"width":160,"height":60,"color":"1"},
+		{"id":"d28db9913eabd86c","type":"text","text":"民族区域自治制度 #民族区域自治制度 ","x":-120,"y":130,"width":160,"height":60,"color":"1"},
+		{"id":"c1d881882d69bb17","type":"text","text":"基层群众自治制度 #基层群众自治制度","x":-120,"y":220,"width":160,"height":60,"color":"1"},
+		{"id":"ccdec2aed20eeb59","type":"text","text":"党的领导 #党的领导","x":220,"y":100,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"2fd80c9760ea9651","fromNode":"449a607a101e8830","fromSide":"right","toNode":"ccdec2aed20eeb59","toSide":"left","label":"都需要"}
+	]
+}

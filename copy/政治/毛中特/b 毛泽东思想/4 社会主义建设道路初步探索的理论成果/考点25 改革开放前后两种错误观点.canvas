@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"d146df0648fd398f","type":"text","text":"今天","x":220,"y":3,"width":75,"height":60,"color":"1"},
+		{"id":"2827cc6a950a302f","type":"text","text":"1956","x":-300,"y":3,"width":81,"height":60,"color":"1"},
+		{"id":"c7d9c7a637d86d78","type":"text","text":"1978","x":-40,"y":3,"width":84,"height":60,"color":"1"},
+		{"id":"1e26eb2e8de12ef0","type":"text","text":"改革开放前","x":-200,"y":-80,"width":117,"height":60,"color":"2"},
+		{"id":"be18d76fed388c46","type":"text","text":"改革开放后","x":60,"y":-80,"width":117,"height":60,"color":"2"},
+		{"id":"4605b98c21df6ea1","type":"text","text":"- 有人认为改革开放后做的都是对的，改革开放前做的都是错的（事后诸葛亮）\n- 也有人认为今天做的都是错的，很想回到改革开放前的时代（越来越没机会）","x":-190,"y":100,"width":367,"height":124,"color":"3"}
+	],
+	"edges":[
+		{"id":"365cec73548fd4e8","fromNode":"2827cc6a950a302f","fromSide":"right","toNode":"c7d9c7a637d86d78","toSide":"left"},
+		{"id":"305c16a2af522a4a","fromNode":"c7d9c7a637d86d78","fromSide":"right","toNode":"d146df0648fd398f","toSide":"left"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d275e169dc879169","type":"text","text":"经济基础","x":120,"y":-135,"width":100,"height":60,"color":"5"},
+		{"id":"396a462ed2a2be5e","type":"text","text":"上层建筑（先进）","x":120,"y":0,"width":100,"height":60,"color":"5"},
+		{"id":"0032a5052103c1a5","type":"text","text":"生产力","x":-120,"y":-135,"width":125,"height":60,"color":"5"},
+		{"id":"3192815922f08284","type":"text","text":"生产关系（先进）","x":-120,"y":0,"width":125,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"aec6b2d328a18345","fromNode":"3192815922f08284","fromSide":"top","toNode":"0032a5052103c1a5","toSide":"bottom","label":"适应"},
+		{"id":"57e2570bb2bfd06a","fromNode":"d275e169dc879169","fromSide":"left","toNode":"0032a5052103c1a5","toSide":"right","label":"适应"},
+		{"id":"99af4d6845e1c12e","fromNode":"396a462ed2a2be5e","fromSide":"top","toNode":"d275e169dc879169","toSide":"bottom","label":"服务"}
+	]
+}

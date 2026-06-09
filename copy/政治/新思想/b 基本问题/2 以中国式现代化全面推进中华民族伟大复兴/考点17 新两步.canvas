@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f8a1b1de25d2bd65","type":"text","text":"2035 #2035年 ","x":-160,"y":-40,"width":79,"height":60,"color":"2"},
+		{"id":"fc4308cb17ebcad0","type":"text","text":"2020","x":-400,"y":-40,"width":77,"height":60,"color":"1"},
+		{"id":"b70e6af60c476305","type":"text","text":"21世纪中叶","x":100,"y":-40,"width":128,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"0e5cee7574e55bf1","fromNode":"fc4308cb17ebcad0","fromSide":"right","toNode":"f8a1b1de25d2bd65","toSide":"left","label":"15年"},
+		{"id":"2154a9c1a63d65ce","fromNode":"f8a1b1de25d2bd65","fromSide":"right","toNode":"b70e6af60c476305","toSide":"left","label":"15年"}
+	]
+}

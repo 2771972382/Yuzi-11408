@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"76afa2dc83786849","type":"group","x":-493,"y":-85,"width":373,"height":110,"color":"2","label":" "},
+		{"id":"e5cedd72c75fe1e8","type":"text","text":"国家富强","x":-473,"y":-65,"width":113,"height":60,"color":"1"},
+		{"id":"b622228ac55d49b0","type":"text","text":"民族振兴","x":-320,"y":-65,"width":113,"height":60,"color":"1"},
+		{"id":"c2bb2da8453bf66e","type":"text","text":"人民幸福","x":160,"y":-65,"width":113,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"689f261ab3a838db","fromNode":"76afa2dc83786849","fromSide":"top","toNode":"c2bb2da8453bf66e","toSide":"top","label":"基础、保障、前提"},
+		{"id":"3f0f52fed3fbb700","fromNode":"c2bb2da8453bf66e","fromSide":"bottom","toNode":"76afa2dc83786849","toSide":"bottom","label":"出发点、落脚点、根本目的、归宿：为了人"}
+	]
+}
