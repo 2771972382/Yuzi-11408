@@ -6,7 +6,6 @@
   "Enhanced-editing",
   "obsidian-excalidraw-plugin",
   "obsidian-linter",
-  "obsidian-git",
   "obsidian-tasks-plugin",
   "oz-clear-unused-images",
   "obsidian-minimal-settings",
@@ -17,5 +16,6 @@
   "floating-toc",
   "obsidian-mindmap-nextgen",
   "mousewheel-image-zoom",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "obsidian-git"
 ]

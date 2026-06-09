@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "a85b2ebf5d5b4642",
+            "id": "2ceac16d02dd46a9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -182,7 +182,9 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "callout-manager:Insert Callout": false,
+      "realclaudian:Open Claudian": false
     }
   },
   "active": "37f8f40eef564c7f",
@@ -239,4 +241,9 @@
     "copy/政治/史纲/c 新中国时期/8 中华人民共和国的成立与中国社会主义建设道路的探索/“一体两翼”（2025史纲）.png",
     "copy/政治/史纲/学科知识框架图.png",
     "copy/政治/史纲/1949-1978逻辑框架图.png",
-    "copy/政治/毛中特/b 毛泽东思想/3 社会主义改造理论/“一体两翼”（2025毛中特）.
+    "copy/政治/毛中特/b 毛泽东思想/3 社会主义改造理论/“一体两翼”（2025毛中特）.png",
+    "copy/政治/毛中特/b 毛泽东思想/2 新民主主义革命理论/三大法宝关系2025.png",
+    "Obsidian/assets/Pasted image 20260114204533.png",
+    "copy/数二/assets/readme/Support.png"
+  ]
+}
