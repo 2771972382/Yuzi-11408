@@ -4,21 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "2e41a0a94216282c",
+        "id": "b74ea020005cf376",
         "type": "tabs",
+        "dimension": 75.96153846153845,
         "children": [
           {
-            "id": "24b67793f4447c56",
+            "id": "57d3430aa9470097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "保持热爱.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "保持热爱"
+              "title": "README"
+            }
+          },
+          {
+            "id": "56daf1898dea957f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永远热烈，永远精彩！.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "永远热烈，永远精彩！"
+            }
+          },
+          {
+            "id": "90fbcf5817743794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "248f1be546fbb9ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "永远热烈，永远精彩！.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "永远热烈，永远精彩！"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "7058b7d406c0c18f",
+        "type": "tabs",
+        "dimension": 24.03846153846154,
+        "children": [
+          {
+            "id": "d1252922f75106b7",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {},
+              "icon": "gear",
+              "title": "Style Settings"
             }
           }
         ]
@@ -78,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5069465637207
   },
   "right": {
     "id": "8690fabddddba01a",
@@ -87,6 +148,7 @@
       {
         "id": "e8b3594a3a04ef2f",
         "type": "tabs",
+        "dimension": 44.23529411764706,
         "children": [
           {
             "id": "c38f5f8c18c63b25",
@@ -109,12 +171,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,13 +203,50 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hahaha.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "hahaha 的大纲"
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4df542fb34393c97",
+        "type": "tabs",
+        "dimension": 55.76470588235294,
+        "children": [
+          {
+            "id": "f1d548f1a3092d6a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "3918b28f0e2c9a5d",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "632412b57a354da7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -162,11 +260,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 306
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,45 +286,47 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "37f8f40eef564c7f",
+  "active": "2ceac16d02dd46a9",
   "lastOpenFiles": [
     "README.md",
-    "保持热爱.md",
-    "Obsidian/README.md",
-    "未命名.canvas",
-    "hahaha.md",
-    "测试.md",
+    "未命名.md",
+    "永远热烈，永远精彩！.md",
+    "考研复习规划_6.12-12.12.md",
+    "考研加油.md",
+    "模板/主题笔记模板.md",
+    "模板/未命名.md",
+    "未命名 1.md",
+    "2026-06-10.md",
+    "模板/日记.md",
+    "模板/项目模板.md",
+    "模板/文献笔记模板.md",
+    "模板/年报模板.md",
+    "模板/领域页模板.md",
+    "模板/进度模板.md",
+    "模板/周报模板.md",
+    "模板/HOME模板.md",
+    "模板/永久笔记模板.md",
+    "模板/月报模板.md",
+    "copy/模版文件夹/同类题目汇总模版.md",
+    "模板",
+    "copy/模版文件夹/基础知识模板.md",
+    "copy/模版文件夹/方法模板.md",
+    "copy/模版文件夹/错题模板.md",
+    "高数/第一章.md",
+    "未命名 2",
+    "未命名 1",
+    "未命名",
     "Obsidian/教程.md",
-    "Obsidian/讲解思路.md",
+    "copy/408/DS/树.md",
+    "高数",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名 2.base",
+    "考研复习规划/文件索引.md.tmp.30900.3e91a71861e5",
+    "考研复习规划/06-各科备考策略.md.tmp.30900.acdbebfae412",
+    "未命名.canvas",
     "Obsidian/assets/Pasted image 20260202230956.png",
     "Obsidian/assets/Pasted image 20260202230917.png",
-    "copy/数一/1 高数/1 函数 极限与连续/1-0 函数 极限与连续思维导图.md",
-    "copy",
-    "copy/数一/1 高数/3 微分中值定理/辅助函数技巧公式.md",
-    "copy/数一/1 高数/3 微分中值定理/罗尔定理推论.md",
-    "copy/数一/1 高数/3 微分中值定理/3-3 拉格朗日中值定理.md",
-    "copy/数一/1 高数/3 微分中值定理/3-1 费马引理.md",
-    "copy/408/CO/5. 中央处理器.md",
-    "copy/408/CO/6. 总线.md",
-    "copy/英一/小作文模板.md",
-    "copy/英一/小作文.md",
-    "copy/英一/翻译核心逻辑.pdf",
-    "copy/英一/翻译.md",
-    "copy/英一/大作文.md",
-    "copy/408/CN/5. 传输层.md",
-    "copy/408/CN/4. 网络层.md",
-    "copy/408/CN/3. 数据链路层.md",
-    "copy/408/CN/2. 物理层.md",
-    "copy/408/CN/1. 概述.md",
-    "copy/408/CN",
-    "copy/408/OS/OS_5.md",
-    "copy/408/OS/OS_4.md",
-    "copy/408/OS/OS_3.md",
-    "copy/408/OS",
-    "copy/408/DS",
-    "copy/408/CO",
-    "copy/408",
-    "新建文件夹",
     "copy/政治/新思想/c 布局安排/11 以保障和改善民生为重点加强社会建设/考点106 发展与民生的关系.canvas",
     "copy/政治/新思想/d 内外条件/13 维护和塑造国家安全/考点125 发展和安全的关系.canvas",
     "copy/政治/新思想/c 布局安排/6 推动高质量发展/考点55 国内循环与国际竞争.canvas",
@@ -236,8 +336,6 @@
     "copy/政治/新思想/c 布局安排/6 推动高质量发展/考点50 基本经济制度关系.canvas",
     "copy/政治/新思想/c 布局安排/12 建设社会主义生态文明/考点115 生态环境与经济发展关系.canvas",
     "copy/政治/新思想/b 基本问题/5 全面深化改革开放/考点38 划时代的转变.canvas",
-    "copy/政治/新思想/d 内外条件/16 中国特色大国外交和推动构建人类命运共同体",
-    "copy/政治/新思想/d 内外条件/17 全面从严治党",
     "copy/政治/新思想/学科知识框架图.png",
     "copy/政治/史纲/c 新中国时期/8 中华人民共和国的成立与中国社会主义建设道路的探索/“一体两翼”（2025史纲）.png",
     "copy/政治/史纲/学科知识框架图.png",

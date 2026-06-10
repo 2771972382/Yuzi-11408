@@ -1,5 +1,4 @@
 [
-  "obsidian-style-settings",
   "mysnippets-plugin",
   "easy-typing-obsidian",
   "obsidian42-brat",
@@ -19,5 +18,7 @@
   "obsidian-paste-image-rename",
   "obsidian-git",
   "omnisearch",
-  "settings-search"
+  "settings-search",
+  "obsidian-style-settings",
+  "calendar"
 ]

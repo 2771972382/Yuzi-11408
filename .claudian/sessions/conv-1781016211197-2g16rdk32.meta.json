@@ -1,11 +1,24 @@
 {
   "id": "conv-1781016211197-2g16rdk32",
   "providerId": "claude",
-  "title": "你好",
-  "titleGenerationStatus": "failed",
+  "title": "Restructure exam review plan into files",
+  "titleGenerationStatus": "success",
   "createdAt": 1781016211209,
-  "updatedAt": 1781016425603,
-  "lastResponseAt": 1781016211293,
-  "sessionId": null,
-  "providerState": {}
+  "updatedAt": 1781029553576,
+  "lastResponseAt": 1781029553576,
+  "sessionId": "71dc2a3b-8d93-4467-84b9-07d3d9056c58",
+  "providerState": {
+    "providerSessionId": "71dc2a3b-8d93-4467-84b9-07d3d9056c58"
+  },
+  "currentNote": "考研复习规划_6.12-12.12.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 118,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 56320,
+    "contextWindow": 200000,
+    "contextTokens": 56438,
+    "percentage": 28,
+    "contextWindowIsAuthoritative": true
+  }
 }

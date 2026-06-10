@@ -1,7 +1,16 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "header-bottom-spacing"
-  ]
+    "header-bottom-spacing",
+    "extended-colorschemes",
+    "custom-rainbow-colors",
+    "网格背景",
+    "大纲美化",
+    "yaozhuwa"
+  ],
+  "accentColor": "#6d95ab",
+  "baseFontSize": 13,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
