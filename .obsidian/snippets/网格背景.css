@@ -1,30 +1,49 @@
-/* from blue-topaz */
+/* ========================================
+   笔记本风格网格背景（来自 Blue Topaz 主题）
+   ======================================== */
+
+/* 暗色主题的网格变量 */
 .theme-dark {
-  --bg-color-notebook: #2a2825;
-  --grid-notebook-line-color-1: #c7c7c71f;
-  --grid-notebook-line-color-2: #74747440;
-  --dotted-notebook-dot-color: #c7c7c71f;
-}
-.theme-light {
-  --bg-color-notebook: #fef9f1;
-  --grid-notebook-line-color-1: #c7c7c740;
-  --grid-notebook-line-color-2: #afafaf40;
-  --dotted-notebook-dot-color: #c7c7c780;
+  --bg-color-notebook: #2a2825;               /* 笔记本背景色（暗色） */
+  --grid-notebook-line-color-1: #c7c7c71f;    /* 小网格线颜色（带透明度） */
+  --grid-notebook-line-color-2: #74747440;    /* 大网格线颜色（带透明度） */
+  --dotted-notebook-dot-color: #c7c7c71f;     /* 点状网格点颜色 */
 }
 
-/*notebook background*/
-.markdown-reading-view .markdown-rendered, .markdown-source-view.mod-cm6 .cm-scroller {
-/*  background: #2a2825;*/
-/*  background: var(--bg-color-notebook);*/
+/* 浅色主题的网格变量 */
+.theme-light {
+  --bg-color-notebook: #fef9f1;               /* 笔记本背景色（浅色-暖米白） */
+  --grid-notebook-line-color-1: #c7c7c740;    /* 小网格线颜色（灰色，约25%不透明度） */
+  --grid-notebook-line-color-2: #afafaf40;    /* 大网格线颜色（浅灰，约25%不透明度） */
+  --dotted-notebook-dot-color: #c7c7c780;     /* 点状网格点颜色（灰色，约50%不透明度） */
+}
+
+/* 笔记本网格背景生成规则 */
+/* 应用于阅读模式与实时预览模式的编辑区域 */
+.markdown-reading-view .markdown-rendered, 
+.markdown-source-view.mod-cm6 .cm-scroller {
+  /* 背景色（原被注释，如需使用可取消注释） */
+  /* background: #2a2825; */
+  /* background: var(--bg-color-notebook); */
+  
+  /* 多层渐变叠加，生成网格线 */
   background-image:
+     /* 大网格（75px）水平线 */
      linear-gradient(var(--grid-notebook-line-color-2) 1px, transparent 0),
-     linear-gradient(90deg, var(--grid-notebook-line-color-2) 1px,transparent 0),
-     linear-gradient(var(--grid-notebook-line-color-1) 1px,
-     transparent 0),
-     linear-gradient(90deg,var(--grid-notebook-line-color-1) 1px,
-     transparent 0);
+     /* 大网格（75px）垂直线 */
+     linear-gradient(90deg, var(--grid-notebook-line-color-2) 1px, transparent 0),
+     /* 小网格（15px）水平线 */
+     linear-gradient(var(--grid-notebook-line-color-1) 1px, transparent 0),
+     /* 小网格（15px）垂直线 */
+     linear-gradient(90deg, var(--grid-notebook-line-color-1) 1px, transparent 0);
+  
+  /* 背景尺寸：分别对应上述四层渐变
+     前两个为大网格（75px），后两个为小网格（15px） */
   background-size: 75px 75px, 75px 75px, 15px 15px, 15px 15px;
 }
-.markdown-reading-view .markdown-rendered, .markdown-source-view.mod-cm6 .cm-scroller {
+
+/* 背景随滚动条滚动（local 表示背景随元素内容滚动） */
+.markdown-reading-view .markdown-rendered, 
+.markdown-source-view.mod-cm6 .cm-scroller {
   background-attachment: local !important;
 }

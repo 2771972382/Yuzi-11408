@@ -1,0 +1,20 @@
+/* 两栏布局样式 */
+.two-columns {
+  column-count: 2;
+  column-gap: 2rem;
+  column-rule: 1px solid var(--background-modifier-border);
+}
+
+/* 避免标题被分栏打断 */
+.two-columns h1,
+.two-columns h2,
+.two-columns h3 {
+  break-inside: avoid;
+  break-after: avoid;
+}
+
+/* 列表项内部不跨栏 */
+.two-columns li,
+.two-columns p {
+  break-inside: avoid;
+}

@@ -62,13 +62,14 @@
   "workspace:goto-tab-3": [],
   "workspace:goto-tab-4": [],
   "workspace:goto-tab-5": [],
-  "editor:toggle-code": [
+  "editor:toggle-source": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "E"
+      "key": "S"
     }
   ],
-  "markdown:toggle-preview": []
+  "easy-typing-obsidian:easy-typing-format-article": []
 }

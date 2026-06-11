@@ -90,5 +90,10 @@
   "anuppuccin-theme-settings@@h4-line-height": 2,
   "anuppuccin-theme-settings@@h5-line-height": 2.2,
   "anuppuccin-theme-settings@@h6-line-height": 2.5,
-  "anuppuccin-theme-settings@@h2-size": 1.5
+  "anuppuccin-theme-settings@@h2-size": 1.5,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-nord-dark",
+  "yaozhuwa@css@@seamless-embed": true,
+  "yaozhuwa@css@@wide-table": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "none"
 }

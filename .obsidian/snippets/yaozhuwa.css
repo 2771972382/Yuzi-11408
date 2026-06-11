@@ -402,6 +402,27 @@ settings:
   margin-right: auto !important;
 }
 
+/* ========== 表格边框加深、加粗（浅色低饱和度冷色调） ========== */
+.theme-light .markdown-rendered table,
+.theme-light .cm-table-widget table {
+    border-collapse: collapse;
+    border: 2px solid #7A8DA8;   /* 主边框：更深更粗，2px */
+}
+
+.theme-light .markdown-rendered td,
+.theme-light .markdown-rendered th,
+.theme-light .cm-table-widget td,
+.theme-light .cm-table-widget th {
+    border: 1.5px solid #8E9FB5; /* 内部单元格边框：1.5px，颜色稍亮一点但依然深 */
+    padding: 8px 12px;
+}
+
+/* 表头底部边框再加粗突出 */
+.theme-light .markdown-rendered thead tr th,
+.theme-light .cm-table-widget thead tr th {
+    border-bottom: 2.5px solid #5C6E8A;
+    background-color: #EFF2F6;
+}
 
 
   

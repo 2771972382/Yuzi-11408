@@ -6,7 +6,6 @@
       {
         "id": "b74ea020005cf376",
         "type": "tabs",
-        "dimension": 75.96153846153845,
         "children": [
           {
             "id": "57d3430aa9470097",
@@ -14,75 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "考研复习规划_6.12-12.12.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "考研复习规划_6.12-12.12"
             }
           },
           {
-            "id": "56daf1898dea957f",
+            "id": "804db93be02dd252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "永远热烈，永远精彩！.md",
+                "file": "copy/政治/马原/马克思主义基本原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "永远热烈，永远精彩！"
+              "title": "马克思主义基本原理"
             }
           },
           {
-            "id": "90fbcf5817743794",
+            "id": "0e394736ef269fd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ps/磨皮，去除面部瑕疵.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "248f1be546fbb9ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "永远热烈，永远精彩！.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "永远热烈，永远精彩！"
+              "title": "磨皮，去除面部瑕疵"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "7058b7d406c0c18f",
-        "type": "tabs",
-        "dimension": 24.03846153846154,
-        "children": [
-          {
-            "id": "d1252922f75106b7",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {},
-              "icon": "gear",
-              "title": "Style Settings"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +126,7 @@
       {
         "id": "e8b3594a3a04ef2f",
         "type": "tabs",
-        "dimension": 44.23529411764706,
+        "dimension": 44.23529411764705,
         "children": [
           {
             "id": "c38f5f8c18c63b25",
@@ -157,7 +135,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -171,11 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "copy/408/CN/3. 数据链路层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "3. 数据链路层 的出链列表"
             }
           },
           {
@@ -184,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "copy/408/CN/3. 数据链路层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "自律 的反向链接列表"
+              "title": "3. 数据链路层 的反向链接列表"
             }
           },
           {
@@ -203,21 +182,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "copy/408/CN/3. 数据链路层.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "3. 数据链路层 的大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4df542fb34393c97",
         "type": "tabs",
-        "dimension": 55.76470588235294,
+        "dimension": 55.76470588235295,
         "children": [
           {
             "id": "f1d548f1a3092d6a",
@@ -264,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,47 +262,48 @@
       "oz-clear-unused-images:Clear Unused Images": false,
       "callout-manager:Insert Callout": false,
       "realclaudian:Open Claudian": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2ceac16d02dd46a9",
+  "active": "0e394736ef269fd0",
   "lastOpenFiles": [
-    "README.md",
-    "未命名.md",
-    "永远热烈，永远精彩！.md",
-    "考研复习规划_6.12-12.12.md",
-    "考研加油.md",
-    "模板/主题笔记模板.md",
-    "模板/未命名.md",
-    "未命名 1.md",
-    "2026-06-10.md",
-    "模板/日记.md",
-    "模板/项目模板.md",
-    "模板/文献笔记模板.md",
-    "模板/年报模板.md",
-    "模板/领域页模板.md",
-    "模板/进度模板.md",
-    "模板/周报模板.md",
-    "模板/HOME模板.md",
-    "模板/永久笔记模板.md",
-    "模板/月报模板.md",
-    "copy/模版文件夹/同类题目汇总模版.md",
-    "模板",
-    "copy/模版文件夹/基础知识模板.md",
-    "copy/模版文件夹/方法模板.md",
-    "copy/模版文件夹/错题模板.md",
+    "ps/未命名.base",
+    "ps/磨皮，去除面部瑕疵.md",
+    "copy/408/CN/3. 数据链路层.md",
+    "ps",
+    "copy/408/CN/1. 概述.md",
+    "copy/408/CN/2. 物理层.md",
+    "copy/408/CO/2. 数据表示和运算.md",
+    "copy/408/CO/3. 存储系统.md",
+    "copy/408/CO/4. 指令系统.md",
+    "考研复习规划.md",
     "高数/第一章.md",
-    "未命名 2",
-    "未命名 1",
-    "未命名",
-    "Obsidian/教程.md",
-    "copy/408/DS/树.md",
-    "高数",
+    "高数/高数.md",
+    "daily/2026-06-10.md",
+    "copy/政治/马原/b 马克思主义哲学/1 辩证唯物论/未命名.base",
+    "copy/政治/马原/b 马克思主义哲学/1 辩证唯物论/考点13 物质与意识的辩证关系.md",
+    "copy/政治/毛中特/c 中国特色社会主义理论体系/5 中国特色社会主义理论体系的形成发展/总结&扩展7 重要会议内容总结(1978—1997).md",
+    "copy/政治/毛中特/c 中国特色社会主义理论体系/6 邓小平理论/考点37 社会主义改革开放和社会主义市场经济理论.md",
+    "copy/政治/毛中特/c 中国特色社会主义理论体系/5 中国特色社会主义理论体系的形成发展/考点29 邓小平理论：中国特色社会主义理论体系的形成.md",
+    "copy/政治/史纲/b 新民主主义革命时期/4 中国共产党成立和中国革命新局面/考点37 毛泽东的文章.md",
+    "copy/政治/史纲/b 新民主主义革命时期/5 中国革命的新道路/考点43 农村包围城市、武装夺取政权的道路.md",
+    "永远热烈，永远精彩！.md",
+    "轮换对称性.md",
+    "Home.md",
+    "README.md",
+    "Untitled.md",
+    "copy/政治/史纲/c 新中国时期/9 改革开放与中国特色社会主义的开创与发展/考点96 十一届三中全会.md",
+    "copy/政治/README.md",
+    "copy/政治/马原/马克思主义基本原理.md",
+    "copy/政治/史纲/1949-1978逻辑框架图.png",
+    "daily/daily.base",
+    "模板",
     "未命名.base",
     "未命名 1.base",
-    "未命名 2.base",
-    "考研复习规划/文件索引.md.tmp.30900.3e91a71861e5",
-    "考研复习规划/06-各科备考策略.md.tmp.30900.acdbebfae412",
+    "daily",
+    "books",
+    "template",
     "未命名.canvas",
     "Obsidian/assets/Pasted image 20260202230956.png",
     "Obsidian/assets/Pasted image 20260202230917.png",
@@ -339,7 +319,6 @@
     "copy/政治/新思想/学科知识框架图.png",
     "copy/政治/史纲/c 新中国时期/8 中华人民共和国的成立与中国社会主义建设道路的探索/“一体两翼”（2025史纲）.png",
     "copy/政治/史纲/学科知识框架图.png",
-    "copy/政治/史纲/1949-1978逻辑框架图.png",
     "copy/政治/毛中特/b 毛泽东思想/3 社会主义改造理论/“一体两翼”（2025毛中特）.png",
     "copy/政治/毛中特/b 毛泽东思想/2 新民主主义革命理论/三大法宝关系2025.png",
     "Obsidian/assets/Pasted image 20260114204533.png",

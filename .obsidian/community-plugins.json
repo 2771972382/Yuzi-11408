@@ -1,24 +1,14 @@
 [
-  "mysnippets-plugin",
   "easy-typing-obsidian",
-  "obsidian42-brat",
-  "Enhanced-editing",
-  "obsidian-excalidraw-plugin",
-  "obsidian-linter",
   "obsidian-tasks-plugin",
-  "oz-clear-unused-images",
-  "obsidian-minimal-settings",
-  "dataview",
   "callout-manager",
   "realclaudian",
   "editing-toolbar",
-  "floating-toc",
-  "obsidian-mindmap-nextgen",
-  "mousewheel-image-zoom",
-  "obsidian-paste-image-rename",
   "obsidian-git",
   "omnisearch",
   "settings-search",
   "obsidian-style-settings",
-  "calendar"
+  "calendar",
+  "templater-obsidian",
+  "tag-wrangler"
 ]

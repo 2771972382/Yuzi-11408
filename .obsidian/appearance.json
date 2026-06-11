@@ -5,12 +5,13 @@
     "header-bottom-spacing",
     "extended-colorschemes",
     "custom-rainbow-colors",
-    "网格背景",
     "大纲美化",
-    "yaozhuwa"
+    "yaozhuwa",
+    "网格背景",
+    "two-columns"
   ],
   "accentColor": "#6d95ab",
-  "baseFontSize": 13,
+  "baseFontSize": 14,
   "baseFontSizeAction": true,
   "nativeMenus": false
 }
