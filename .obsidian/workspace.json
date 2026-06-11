@@ -13,37 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习规划_6.12-12.12.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "考研复习规划_6.12-12.12"
-            }
-          },
-          {
-            "id": "804db93be02dd252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "copy/政治/马原/马克思主义基本原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "马克思主义基本原理"
-            }
-          },
-          {
-            "id": "0e394736ef269fd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "ps/磨皮，去除面部瑕疵.md",
-                "mode": "source",
-                "source": false,
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -58,9 +30,43 @@
               "icon": "lucide-file",
               "title": "磨皮，去除面部瑕疵"
             }
+          },
+          {
+            "id": "804db93be02dd252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "git"
+            }
+          },
+          {
+            "id": "0e394736ef269fd0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,10 +272,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e394736ef269fd0",
+  "active": "804db93be02dd252",
   "lastOpenFiles": [
-    "ps/未命名.base",
+    "ps/未命名.md",
+    "coding/git.md",
+    "coding",
     "ps/磨皮，去除面部瑕疵.md",
+    "ps/智能对象.md",
+    "考研复习规划_6.12-12.12.md",
+    "ps/未命名.base",
+    "copy/政治/马原/马克思主义基本原理.md",
     "copy/408/CN/3. 数据链路层.md",
     "ps",
     "copy/408/CN/1. 概述.md",
@@ -292,10 +304,6 @@
     "轮换对称性.md",
     "Home.md",
     "README.md",
-    "Untitled.md",
-    "copy/政治/史纲/c 新中国时期/9 改革开放与中国特色社会主义的开创与发展/考点96 十一届三中全会.md",
-    "copy/政治/README.md",
-    "copy/政治/马原/马克思主义基本原理.md",
     "copy/政治/史纲/1949-1978逻辑框架图.png",
     "daily/daily.base",
     "模板",
@@ -303,7 +311,6 @@
     "未命名 1.base",
     "daily",
     "books",
-    "template",
     "未命名.canvas",
     "Obsidian/assets/Pasted image 20260202230956.png",
     "Obsidian/assets/Pasted image 20260202230917.png",
