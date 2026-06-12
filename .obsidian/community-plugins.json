@@ -14,5 +14,6 @@
   "obsidian-linter",
   "obsidian-latex-suite",
   "homepage",
-  "properties-filename"
+  "properties-filename",
+  "multi-column-markdown"
 ]
