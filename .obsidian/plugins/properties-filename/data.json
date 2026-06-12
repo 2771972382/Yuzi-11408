@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "folder": "错题",
+      "template": "{{科目}}_{{章节}}_{{来源}}_{{题号}}"
+    }
+  ],
+  "autoRename": true,
+  "debounceMs": 800
+}

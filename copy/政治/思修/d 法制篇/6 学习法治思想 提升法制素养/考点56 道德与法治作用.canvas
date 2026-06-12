@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"7ee1f2596b682613","type":"text","text":"道德","x":-403,"y":-35,"width":250,"height":60,"color":"4"},
-		{"id":"7c50cbde92abaa03","type":"text","text":"法治","x":80,"y":-35,"width":250,"height":60,"color":"4"}
-	],
-	"edges":[
-		{"id":"c419508f23ca0fcc","fromNode":"7ee1f2596b682613","fromSide":"right","toNode":"7c50cbde92abaa03","toSide":"left","fromEnd":"arrow","label":"支撑（促进）"}
-	]
-}

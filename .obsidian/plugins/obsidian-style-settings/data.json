@@ -64,7 +64,7 @@
   "yaozhuwa@css@@increase-paragraph-gap": true,
   "yaozhuwa@css@@increase-headings-gap": true,
   "yaozhuwa@css@@center-image": false,
-  "yaozhuwa@css@@bigger-math-font": true,
+  "yaozhuwa@css@@bigger-math-font": false,
   "yaozhuwa@css@@code-line-number": true,
   "yaozhuwa@css@@clutter-free-headings": true,
   "yaozhuwa@css@@inline-code-bold": true,

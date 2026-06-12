@@ -26,6 +26,12 @@
     "TQ_show_urgency": "checkbox",
     "mood": "text",
     "important": "text",
-    "weather": "text"
+    "weather": "text",
+    "掌握程度": "multitext",
+    "复习时间": "multitext",
+    "打卡": "text",
+    "题号": "text",
+    "章节": "text",
+    "创建时间": "date"
   }
 }

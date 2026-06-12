@@ -12,18 +12,18 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
+  "enable_folder_templates": false,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "错题",
+      "template": "template/错题-templater.md"
     }
   ],
-  "enable_file_templates": false,
+  "enable_file_templates": true,
   "file_templates": [
     {
-      "regex": ".*",
-      "template": ""
+      "regex": "错题",
+      "template": "template/错题-templater.md"
     }
   ],
   "syntax_highlighting": true,
@@ -35,9 +35,5 @@
     ""
   ],
   "intellisense_render": 1,
-  "ignore_folders_on_creation": [
-    {
-      "folder": ""
-    }
-  ]
+  "ignore_folders_on_creation": []
 }

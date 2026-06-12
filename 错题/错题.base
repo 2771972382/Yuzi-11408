@@ -1,0 +1,32 @@
+filters:
+  and:
+    - file.folder == "错题"
+    - file.ext == "md"
+views:
+  - type: table
+    name: 高数
+    order:
+      - file.name
+      - 科目
+      - 章节
+      - 来源
+      - 题号
+      - 重要度
+      - 打卡
+      - 掌握
+      - tags
+      - 创建时间
+    sort:
+      - property: 科目
+        direction: ASC
+      - property: 章节
+        direction: ASC
+      - property: 题号
+        direction: ASC
+      - property: 来源
+        direction: ASC
+    columnSize:
+      file.name: 192
+      note.来源: 122
+      note.题号: 64
+      note.打卡: 122

@@ -3,12 +3,16 @@
   "obsidian-tasks-plugin",
   "callout-manager",
   "realclaudian",
-  "editing-toolbar",
   "obsidian-git",
   "omnisearch",
   "settings-search",
   "obsidian-style-settings",
   "calendar",
   "templater-obsidian",
-  "tag-wrangler"
+  "tag-wrangler",
+  "quickadd",
+  "obsidian-linter",
+  "obsidian-latex-suite",
+  "homepage",
+  "properties-filename"
 ]

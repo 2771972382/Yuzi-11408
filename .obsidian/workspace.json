@@ -1,43 +1,20 @@
 {
   "main": {
-    "id": "470f6f3a5e6f88e0",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "b74ea020005cf376",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "57d3430aa9470097",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ps/磨皮，去除面部瑕疵.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "磨皮，去除面部瑕疵"
-            }
-          },
-          {
-            "id": "804db93be02dd252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/git.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -51,22 +28,12 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "git"
-            }
-          },
-          {
-            "id": "0e394736ef269fd0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +52,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byCreatedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -98,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:高数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5069465637207
+    "width": 306.5110321044922
   },
   "right": {
     "id": "8690fabddddba01a",
@@ -141,7 +108,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -188,16 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "copy/408/CN/3. 数据链路层.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3. 数据链路层 的大纲"
+              "title": "Home 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "4df542fb34393c97",
@@ -249,10 +217,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "bases:新建数据库": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
@@ -262,58 +231,62 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
       "callout-manager:Insert Callout": false,
       "realclaudian:Open Claudian": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obisidian-dataloom:Create loom": false
     }
   },
-  "active": "804db93be02dd252",
+  "active": "2ceac16d02dd46a9",
   "lastOpenFiles": [
-    "ps/未命名.md",
-    "coding/git.md",
-    "coding",
-    "ps/磨皮，去除面部瑕疵.md",
-    "ps/智能对象.md",
-    "考研复习规划_6.12-12.12.md",
-    "ps/未命名.base",
-    "copy/政治/马原/马克思主义基本原理.md",
-    "copy/408/CN/3. 数据链路层.md",
-    "ps",
-    "copy/408/CN/1. 概述.md",
-    "copy/408/CN/2. 物理层.md",
-    "copy/408/CO/2. 数据表示和运算.md",
-    "copy/408/CO/3. 存储系统.md",
-    "copy/408/CO/4. 指令系统.md",
-    "考研复习规划.md",
-    "高数/第一章.md",
-    "高数/高数.md",
-    "daily/2026-06-10.md",
-    "copy/政治/马原/b 马克思主义哲学/1 辩证唯物论/未命名.base",
-    "copy/政治/马原/b 马克思主义哲学/1 辩证唯物论/考点13 物质与意识的辩证关系.md",
-    "copy/政治/毛中特/c 中国特色社会主义理论体系/5 中国特色社会主义理论体系的形成发展/总结&扩展7 重要会议内容总结(1978—1997).md",
-    "copy/政治/毛中特/c 中国特色社会主义理论体系/6 邓小平理论/考点37 社会主义改革开放和社会主义市场经济理论.md",
-    "copy/政治/毛中特/c 中国特色社会主义理论体系/5 中国特色社会主义理论体系的形成发展/考点29 邓小平理论：中国特色社会主义理论体系的形成.md",
-    "copy/政治/史纲/b 新民主主义革命时期/4 中国共产党成立和中国革命新局面/考点37 毛泽东的文章.md",
-    "copy/政治/史纲/b 新民主主义革命时期/5 中国革命的新道路/考点43 农村包围城市、武装夺取政权的道路.md",
-    "永远热烈，永远精彩！.md",
-    "轮换对称性.md",
+    "错题/错题.base",
+    "错题/未命名 4.md",
+    "错题/高数_01_真题真刷87-08_28.md",
+    "错题/高数_01_真题真刷87-08_21.md",
+    "错题/高数_01_真题真刷87-08_20.md",
+    "错题/高数_01_真题真刷87-08_19.md",
     "Home.md",
-    "README.md",
-    "copy/政治/史纲/1949-1978逻辑框架图.png",
+    "错题/高数_02_30讲_3.11.md",
+    "错题/未命名.md",
+    "template/错题-templater.md",
+    "template/错题-templater-old.md",
+    "错题/null-null-null.md",
+    "错题/科目_章节_来源_题号.md",
+    "Scripts/creatErrorNote_copy.js",
+    "Scripts/createErrorNote_copy.js",
+    "Scripts/新建 文本文档.txt",
+    "错题/assets/Untitled.loom",
+    "错题/assets",
+    "错题/高数_01_真题真刷87-08_7.md",
+    "错题/高数_01_真题真刷87-08_4.md",
+    "错题/高数-null-null.md",
+    "错题/null-null-null.md",
+    "高数/高数.md",
+    "高数/罗尔定理.md",
+    "错题/高数_02_30讲_4.19.md",
+    "错题/高数_02_30讲_4.18.md",
+    "错题/高数_02_30讲_4.1.md",
+    "错题/高数_02_30讲_3.4.md",
+    "错题/高数_02_30讲_3.6.md",
+    "错题/高数_02_30讲_3.3.md",
+    "错题/高数_02_30讲_3.1.注.md",
+    "高数/assets/Pasted image 20260612233921.png",
+    "高数/assets/Pasted image 20260612233521.png",
+    "高数/assets/Pasted image 20260612233453.png",
+    "高数/assets/Pasted image 20260612233439.png",
+    "高数/assets/Pasted image 20260612233141.png",
+    "高数/assets/Pasted image 20260612233033.png",
+    "高数/assets/Pasted image 20260612232730.png",
+    "高数/assets/Pasted image 20260612231014.png",
+    "高数/assets/Pasted image 20260612214509.png",
     "daily/daily.base",
-    "模板",
     "未命名.base",
-    "未命名 1.base",
-    "daily",
-    "books",
+    "高数/未命名.base",
+    "高数/assets/Pasted image 20260612044030.png",
+    "高数/assets",
     "未命名.canvas",
-    "Obsidian/assets/Pasted image 20260202230956.png",
-    "Obsidian/assets/Pasted image 20260202230917.png",
     "copy/政治/新思想/c 布局安排/11 以保障和改善民生为重点加强社会建设/考点106 发展与民生的关系.canvas",
     "copy/政治/新思想/d 内外条件/13 维护和塑造国家安全/考点125 发展和安全的关系.canvas",
     "copy/政治/新思想/c 布局安排/6 推动高质量发展/考点55 国内循环与国际竞争.canvas",
@@ -322,13 +295,6 @@
     "copy/政治/新思想/c 布局安排/6 推动高质量发展/考点50 基本经济制度和高质量发展.canvas",
     "copy/政治/新思想/c 布局安排/6 推动高质量发展/考点50 基本经济制度关系.canvas",
     "copy/政治/新思想/c 布局安排/12 建设社会主义生态文明/考点115 生态环境与经济发展关系.canvas",
-    "copy/政治/新思想/b 基本问题/5 全面深化改革开放/考点38 划时代的转变.canvas",
-    "copy/政治/新思想/学科知识框架图.png",
-    "copy/政治/史纲/c 新中国时期/8 中华人民共和国的成立与中国社会主义建设道路的探索/“一体两翼”（2025史纲）.png",
-    "copy/政治/史纲/学科知识框架图.png",
-    "copy/政治/毛中特/b 毛泽东思想/3 社会主义改造理论/“一体两翼”（2025毛中特）.png",
-    "copy/政治/毛中特/b 毛泽东思想/2 新民主主义革命理论/三大法宝关系2025.png",
-    "Obsidian/assets/Pasted image 20260114204533.png",
-    "copy/数二/assets/readme/Support.png"
+    "copy/政治/新思想/b 基本问题/5 全面深化改革开放/考点38 划时代的转变.canvas"
   ]
 }

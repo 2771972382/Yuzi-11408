@@ -424,4 +424,9 @@ settings:
     background-color: #EFF2F6;
 }
 
-      
+
+body {
+  --link-weight: bold;      /* 使所有内部链接（笔记链接）变为粗体 */
+  --link-external-weight: bold; /* 使所有外部链接（网址链接）变为粗体 */
+}
+

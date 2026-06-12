@@ -126,3 +126,4 @@ git reset HEAD <文件名>   # 取消暂存，但保留文件改动
 4. **换设备学习**：在新电脑上 `git clone <你的Gitee地址>`，然后用 Obsidian 打开即可。
 
 这套流程简单可靠，既利用了 Gitee 的国内高速，又把 GitHub 当作免费异地备份。如果以后想完全自动化双推，可以再研究 GitHub Actions 或 Gitee 镜像，但目前手动 `git push github` 已经足够。
+#git

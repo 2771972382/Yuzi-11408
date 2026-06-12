@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"695ed2d62a0af17d","type":"text","text":"个人","x":-260,"y":0,"width":80,"height":60,"color":"5"},
-		{"id":"30b351352fad8c03","type":"text","text":"社会","x":20,"y":0,"width":78,"height":60,"color":"5"}
-	],
-	"edges":[
-		{"id":"afdffff9d13219a9","fromNode":"30b351352fad8c03","fromSide":"left","toNode":"695ed2d62a0af17d","toSide":"right","label":"前提基础，保障"}
-	]
-}

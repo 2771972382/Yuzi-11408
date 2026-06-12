@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"ec649bd9622c2fa4","x":-480,"y":-120,"width":520,"height":374,"color":"1","type":"group","label":"法治国家（目标）"},
-		{"id":"b9f24992cf0db4ed","type":"group","x":-441,"y":120,"width":427,"height":92,"color":"3","label":"法治社会（基础）"},
-		{"id":"6c995e1713b49919","x":-352,"y":-48,"width":264,"height":105,"color":"2","type":"group","label":"法治政府（重点）"}
-	],
-	"edges":[]
-}
