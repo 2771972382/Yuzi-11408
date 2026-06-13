@@ -6,25 +6,25 @@ Largest Column: standard
 ```
 
 
-#### ✅ 任务与计划
-- 🖼️ [考研复习规划](考研复习规划/)
+#### ✅ Task
+- 🖼️ [考研复习规划](考研复习规划/考研复习规划.md)
 
-#### 🧰 模板与资源
+#### 🧰 Source
 - 🗃️ [template](template/template.md)
 
 --- column-break ---
 
-#### 📚 学习
+#### 📚 Study notes
 - 🐣 [高数](高等数学/高等数学.md)
 - 🍽️ [计算机组成原理](408/计算机组成原理/计算机组成原理.md)
 
 
 --- column-break ---
 
-#### 📆 生活
+#### 📆 Life
 - 📓 [[daily.base|日记]]
 
-#### 🛠️工具
+#### 🛠️Tools
 - 💄 [[ps]]
 - 🔗 [obsidian](Obsidian/obsidian.md)
 - 🚬 [coding](coding/coding.md)

@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "8c51752191140e69",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "cc93a420bb94be5a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🏠Home.md",
-                "mode": "source",
-                "source": false,
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "929fcbc068f71a0b",
+            "id": "2db08976d67cc263",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/高等数学.md",
+                "file": "🏠Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,58 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "高等数学"
-            }
-          },
-          {
-            "id": "0975bcc6d881382b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机组成原理/计算机组成原理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "计算机组成原理"
-            }
-          },
-          {
-            "id": "03e1ece3609625bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机组成原理/计算机组成原理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "计算机组成原理"
+              "title": "🏠Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -307,22 +260,26 @@
       "callout-manager:Insert Callout": false,
       "realclaudian:Open Claudian": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
-      "obisidian-dataloom:Create loom": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2db08976d67cc263",
   "lastOpenFiles": [
-    "408/计算机组成原理/计算机组成原理.md",
+    "README.md",
     "🏠Home.md",
-    "错题/错题.base",
     "coding/coding.md",
+    "408/计算机组成原理/计算机组成原理.md",
+    "高等数学/高等数学.md",
+    "考研复习规划/考研复习规划.md",
+    "考研复习规划.md",
+    "考研复习规划/文件索引.md",
+    "考研复习规划/06-各科备考策略.md",
+    "错题/错题.base",
     "Obsidian/obsidian.md",
     "Obsidian/README.md",
     "ps/ps.md",
     "template/template.md",
     "template/错题-templater.md",
-    "高等数学/高等数学.md",
     "408/计算机组成原理/第二章 数据的表示和运算.md",
     "高等数学/第一章 函数、极限、连续.md",
     "408/计算机组成原理/assets/Pasted image 20260613024557.png",
@@ -349,11 +306,7 @@
     "408-obsidian-main/01-数据结构/第3章-树和二叉树.md",
     "408-obsidian-main/01-数据结构/第5章-查找.md",
     "408-obsidian-main/01-数据结构/第6章-排序.md",
-    "408-obsidian-main/01-数据结构/第7章-算法分析.md",
     "408-obsidian-main/assets",
-    "408-obsidian-main/04-计算机网络/计算机网络目录.md",
-    "408-obsidian-main/04-计算机网络/第7章-网络安全.md",
-    "408-obsidian-main/04-计算机网络/第6章-应用层.md",
     "408-obsidian-main/04-计算机网络",
     "408-obsidian-main/03-操作系统",
     "408-obsidian-main/02-计算机组成原理",
