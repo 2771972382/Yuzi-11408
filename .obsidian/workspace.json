@@ -32,8 +32,96 @@
               "icon": "lucide-file",
               "title": "🏠Home"
             }
+          },
+          {
+            "id": "f433a9fd6c0a683f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-06-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-06-14"
+            }
+          },
+          {
+            "id": "8859f7e5c39cfa6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/daily.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "daily"
+            }
+          },
+          {
+            "id": "7ed1f885af5a92a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-06-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-13"
+            }
+          },
+          {
+            "id": "7a0739d48d6054d9",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "daily/daily.base",
+                "viewName": "daily表格"
+              },
+              "icon": "lucide-table",
+              "title": "daily"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -65,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#真题真刷87-08",
+                "query": "tag:#daily",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +174,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠Home.md",
+                "file": "daily/daily.base",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏠Home 的大纲"
+              "title": "daily 的大纲"
             }
           }
         ],
@@ -218,7 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,16 +326,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7a0739d48d6054d9",
   "lastOpenFiles": [
+    "daily/高数.md",
     "🏠Home.md",
+    "daily/daily.base",
     "daily/2026-06-13.md",
     "daily/2026-06-14.md",
+    "template/daily.md",
+    "高等数学/第二章 一元函数微分学.md",
+    "高等数学/一元函数微分学 题型总结.md",
+    "高等数学/高等数学.md",
     "Obsidian/obsidian.md",
     "错题/高数_01_真题真刷87-08_4.md",
     "Obsidian/教程.md",
-    "daily/高数.md",
-    "template/daily.md",
     "coding/coding.md",
     "coding/markdown.md",
     "Obsidian/templater常用语句.md",
@@ -259,17 +350,12 @@
     "408/计算机组成原理/计算机组成原理.md",
     "template/template.md",
     "template/essay.md",
-    "daily/daily.base",
     "README.md",
     "Obsidian/QuickAdd.md",
     "daily/essay/1.md",
     "essay",
     "essay/1.md",
     "daily/essay",
-    "高等数学/高等数学.md",
-    "考研复习规划/考研复习规划.md",
-    "考研复习规划.md",
-    "考研复习规划/文件索引.md",
     "错题/错题.base",
     "408/计算机组成原理/assets/Pasted image 20260613024557.png",
     "408/计算机组成原理/assets/Pasted image 20260613024553.png",

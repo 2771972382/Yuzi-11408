@@ -22,7 +22,7 @@ Largest Column: standard
 --- column-break ---
 
 #### 📆 Life
-- 📓 [[daily.base|日记]]
+- 📓 [daily](daily.base)
 
 #### 🛠️Tools
 - 💄 [[ps]]
@@ -44,4 +44,4 @@ Largest Column: standard
 | `Ctrl + Shift + A` | Quick Add：新建错题 |
 | `Ctrl + K`         | 插入链接           |
 | `Ctrl + Shift + O` | Omnisearch     |
-| `Ctrl + Shift + O` | 打开/创建今天的日记     |
+| `Ctrl + Shift + D` | 打开/创建今天的日记     |
