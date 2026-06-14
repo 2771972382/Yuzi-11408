@@ -16,8 +16,10 @@ views:
       - mood
       - important
     sort:
-      - property: mood
+      - property: file.basename
         direction: ASC
+      - property: date
+        direction: DESC
   - type: cards
     name: daily卡片
     cardSize: 140

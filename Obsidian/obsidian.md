@@ -2,3 +2,4 @@
 [讲解思路](讲解思路.md)
 [教程](教程.md)
 [README](README.md)
+[[QuickAdd]]

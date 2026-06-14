@@ -34,9 +34,14 @@ Largest Column: standard
 
 
 #### 🔗 快速跳转
-| 快捷方式           | 说明       |
-| -------------- | -------- |
-| `Ctrl/Cmd + O` | 快速打开任意笔记 |
-| `Ctrl/Cmd + P` | 命令面板     |
-| `Ctrl/Cmd + ,` | 设置       |
-|                |          |
+| 快捷方式               | 说明             |
+| ------------------ | -------------- |
+| `Ctrl + O`         | 快速打开任意笔记       |
+| `Ctrl + P`         | 命令面板           |
+| `Ctrl + ,`         | 设置             |
+| `Ctrl + E`         | 切换编辑/预览试图      |
+| `Ctrl + Shift + S` | 切换实时预览/源码模式    |
+| `Ctrl + Shift + A` | Quick Add：新建错题 |
+| `Ctrl + K`         | 插入链接           |
+| `Ctrl + Shift + O` | Omnisearch     |
+| `Ctrl + Shift + O` | 打开/创建今天的日记     |

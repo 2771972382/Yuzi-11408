@@ -19,6 +19,42 @@
           }
         ]
       }
+    },
+    {
+      "id": "e764bb37-f963-4447-b12b-5fa0918fd85f",
+      "name": "essay",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/essay.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:文件名}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "daily/essay"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "afterSelection",
+        "requireActiveFile": true,
+        "linkType": "link"
+      },
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
     }
   ],
   "inputPrompt": "single-line",
