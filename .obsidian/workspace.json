@@ -94,8 +94,7 @@
               "title": "错题"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:高数",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,8 +147,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "错题/错题.base",
+                "file": "🏠Home.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "错题 的大纲"
+              "title": "🏠Home 的大纲"
             }
           }
         ],
@@ -301,13 +299,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d4d007aac77fad1",
+  "active": "37f8f40eef564c7f",
   "lastOpenFiles": [
+    "错题/错题.base",
     "错题/高数_02_真题真刷87-08_29.md",
     "错题/高数_02_真题真刷87-08_28.md",
     "高等数学/第二章 一元函数微分学.md",
     "高等数学/连续且一点可导.md",
-    "错题/错题.base",
     "错题/高数_02_真题真刷87-08_16.md",
     "错题/高数_02_真题真刷87-08_13.md",
     "错题/高数_02_真题真刷87-08_11.md",
@@ -329,7 +327,6 @@
     "错题/高数_02_30讲_3.3.md",
     "template/template.md",
     "template/daily.md",
-    "错题/高数_ceshi_30讲_e.md",
     "art/assets/梅杜莎之筏.jpg",
     "art/assets",
     "art",
