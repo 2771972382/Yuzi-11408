@@ -15,5 +15,6 @@
   "obsidian-latex-suite",
   "homepage",
   "properties-filename",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "obsidian-link-converter"
 ]

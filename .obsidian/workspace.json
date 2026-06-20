@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#导数性质",
+                "query": "tag:高数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/第二章 一元函数微分学.md",
+                "file": "错题/错题.base",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第二章 一元函数微分学 的大纲"
+              "title": "错题 的大纲"
             }
           }
         ],
@@ -300,35 +301,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a97303194443478",
+  "active": "4d4d007aac77fad1",
   "lastOpenFiles": [
-    "错题/高数_02_真题真刷87-08_5.md",
+    "错题/高数_02_真题真刷87-08_29.md",
+    "错题/高数_02_真题真刷87-08_28.md",
     "高等数学/第二章 一元函数微分学.md",
+    "高等数学/连续且一点可导.md",
+    "错题/错题.base",
+    "错题/高数_02_真题真刷87-08_16.md",
+    "错题/高数_02_真题真刷87-08_13.md",
+    "错题/高数_02_真题真刷87-08_11.md",
+    "错题/高数_02_真题真刷87-08_10.md",
+    "错题/高数_02_真题真刷87-08_17.md",
+    "错题/高数_02_真题真刷87-08_8.md",
+    "错题/高数_02_30讲_4.1.md",
+    "错题/高数_02_30讲_3.11.md",
+    "错题/高数_02_30讲_3.1.注.md",
+    "错题/高数_02_真题真刷87-08_5.md",
     "高等数学/高等数学.md",
     "高等数学/第一章 函数、极限、连续.md",
     "错题/高数_02_30讲_3.6.md",
     "🏠Home.md",
-    "错题/错题.base",
     "错题/高数_01_真题真刷87-08_20.md",
     "错题/高数_02_30讲_4.19.md",
     "高等数学/导数定义的广义化.md",
     "template/错题-templater.md",
     "错题/高数_02_30讲_3.3.md",
-    "错题/高数_02_30讲_3.1.注.md",
     "template/template.md",
     "template/daily.md",
     "错题/高数_ceshi_30讲_e.md",
-    "daily/essay/葡萄牙vs刚果金.md",
-    "daily/2026-06-18.md",
-    "ps/磨皮，去除面部瑕疵.md",
-    "daily/essay/毕业典礼小记.md",
-    "daily/2026-06-16.md",
-    "art/paintings.md",
-    "art/梅杜萨之筏.md",
     "art/assets/梅杜莎之筏.jpg",
-    "template/painting.md",
-    "template/essay.md",
-    "考研复习规划/考研复习规划.md",
     "art/assets",
     "art",
     "daily/daily.base",
