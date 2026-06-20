@@ -12,6 +12,9 @@ Largest Column: standard
 #### 🧰 Source
 - 🗃️ [template](template/template.md)
 
+#### 🚬 Art
+- 🎨 [paintings](art/paintings.md)
+- 
 --- column-break ---
 
 #### 📚 Study notes

@@ -11,7 +11,8 @@
     "two-columns"
   ],
   "accentColor": "#6d95ab",
-  "baseFontSize": 13,
+  "baseFontSize": 15,
   "baseFontSizeAction": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "textFontFamily": "华文中宋,微软雅黑"
 }

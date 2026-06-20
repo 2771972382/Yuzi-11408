@@ -34,38 +34,12 @@
             }
           },
           {
-            "id": "f433a9fd6c0a683f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-06-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-06-14"
-            }
-          },
-          {
-            "id": "8859f7e5c39cfa6f",
+            "id": "8a97303194443478",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/daily.md",
+                "file": "高等数学/第二章 一元函数微分学.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "第二章 一元函数微分学"
             }
           },
           {
-            "id": "7ed1f885af5a92a7",
+            "id": "cd8a00fa709bc68d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-13.md",
+                "file": "错题/高数_02_30讲_3.6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -104,24 +78,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-13"
+              "title": "高数_02_30讲_3.6"
             }
           },
           {
-            "id": "7a0739d48d6054d9",
+            "id": "4d4d007aac77fad1",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "daily/daily.base",
-                "viewName": "daily表格"
+                "file": "错题/错题.base",
+                "viewName": "高数"
               },
               "icon": "lucide-table",
-              "title": "daily"
+              "title": "错题"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#daily",
+                "query": "tag:#导数性质",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5110321044922
+    "width": 259.5110321044922
   },
   "right": {
     "id": "8690fabddddba01a",
@@ -243,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/daily.base",
+                "file": "高等数学/第二章 一元函数微分学.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "daily 的大纲"
+              "title": "第二章 一元函数微分学 的大纲"
             }
           }
         ],
@@ -305,7 +279,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,37 +300,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a0739d48d6054d9",
+  "active": "8a97303194443478",
   "lastOpenFiles": [
-    "daily/高数.md",
-    "🏠Home.md",
-    "daily/daily.base",
-    "daily/2026-06-13.md",
-    "daily/2026-06-14.md",
-    "template/daily.md",
+    "错题/高数_02_真题真刷87-08_5.md",
     "高等数学/第二章 一元函数微分学.md",
-    "高等数学/一元函数微分学 题型总结.md",
     "高等数学/高等数学.md",
-    "Obsidian/obsidian.md",
-    "错题/高数_01_真题真刷87-08_4.md",
-    "Obsidian/教程.md",
-    "coding/coding.md",
-    "coding/markdown.md",
-    "Obsidian/templater常用语句.md",
-    "daily/2026-06-10.md",
-    "daily/2026-06-11.md",
-    "daily/2026-06-12.md",
-    "408/计算机组成原理/第二章 数据的表示和运算.md",
-    "408/计算机组成原理/计算机组成原理.md",
-    "template/template.md",
-    "template/essay.md",
-    "README.md",
-    "Obsidian/QuickAdd.md",
-    "daily/essay/1.md",
-    "essay",
-    "essay/1.md",
-    "daily/essay",
+    "高等数学/第一章 函数、极限、连续.md",
+    "错题/高数_02_30讲_3.6.md",
+    "🏠Home.md",
     "错题/错题.base",
+    "错题/高数_01_真题真刷87-08_20.md",
+    "错题/高数_02_30讲_4.19.md",
+    "高等数学/导数定义的广义化.md",
+    "template/错题-templater.md",
+    "错题/高数_02_30讲_3.3.md",
+    "错题/高数_02_30讲_3.1.注.md",
+    "template/template.md",
+    "template/daily.md",
+    "错题/高数_ceshi_30讲_e.md",
+    "daily/essay/葡萄牙vs刚果金.md",
+    "daily/2026-06-18.md",
+    "ps/磨皮，去除面部瑕疵.md",
+    "daily/essay/毕业典礼小记.md",
+    "daily/2026-06-16.md",
+    "art/paintings.md",
+    "art/梅杜萨之筏.md",
+    "art/assets/梅杜莎之筏.jpg",
+    "template/painting.md",
+    "template/essay.md",
+    "考研复习规划/考研复习规划.md",
+    "art/assets",
+    "art",
+    "daily/daily.base",
+    "essay",
+    "daily/essay",
     "408/计算机组成原理/assets/Pasted image 20260613024557.png",
     "408/计算机组成原理/assets/Pasted image 20260613024553.png",
     "408/计算机组成原理/assets/Pasted image 20260613024549.png",
@@ -368,11 +345,8 @@
     "408/assets/Pasted image 20260613024337.png",
     "408/assets/Pasted image 20260613024334.png",
     "408/assets/Pasted image 20260613024332.png",
-    "408/assets/Pasted image 20260613024329.png",
     "408/assets",
     "408",
-    "408-obsidian-main/assets",
-    "408-obsidian-main/04-计算机网络",
     "未命名.canvas",
     "copy/政治/新思想/c 布局安排/11 以保障和改善民生为重点加强社会建设/考点106 发展与民生的关系.canvas",
     "copy/政治/新思想/d 内外条件/13 维护和塑造国家安全/考点125 发展和安全的关系.canvas",

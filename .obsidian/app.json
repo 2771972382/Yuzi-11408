@@ -2,9 +2,9 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "promptDelete": false,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "attachmentFolderPath": "./assets",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "userIgnoreFilters": [
     "assets/"
   ],
