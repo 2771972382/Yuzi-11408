@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "8a97303194443478",
+            "id": "757c2a27c8089a30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/第二章 一元函数微分学.md",
+                "file": "daily/2026-06-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,47 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "第二章 一元函数微分学"
-            }
-          },
-          {
-            "id": "cd8a00fa709bc68d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "错题/高数_02_30讲_3.6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "高数_02_30讲_3.6"
-            }
-          },
-          {
-            "id": "4d4d007aac77fad1",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "错题/错题.base",
-                "viewName": "高数"
-              },
-              "icon": "lucide-table",
-              "title": "错题"
+              "title": "2026-06-23"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:导数性质",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +124,7 @@
       {
         "id": "e8b3594a3a04ef2f",
         "type": "tabs",
-        "dimension": 44.23529411764705,
+        "dimension": 56.4993564993565,
         "children": [
           {
             "id": "c38f5f8c18c63b25",
@@ -216,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠Home.md",
+                "file": "daily/2026-06-23.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏠Home 的大纲"
+              "title": "2026-06-23 的大纲"
             }
           }
         ],
@@ -231,7 +195,7 @@
       {
         "id": "4df542fb34393c97",
         "type": "tabs",
-        "dimension": 55.76470588235295,
+        "dimension": 43.5006435006435,
         "children": [
           {
             "id": "f1d548f1a3092d6a",
@@ -272,13 +236,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "3b1840c38fb19a43",
+            "type": "leaf",
+            "state": {
+              "type": "Timer",
+              "state": {},
+              "icon": "alarm-clock",
+              "title": "Timer"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,37 +270,44 @@
       "callout-manager:Insert Callout": false,
       "realclaudian:Open Claudian": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "timer:Open timer": false,
+      "time-ruler:Open Time Ruler": false
     }
   },
-  "active": "37f8f40eef564c7f",
+  "active": "2ceac16d02dd46a9",
   "lastOpenFiles": [
-    "错题/错题.base",
-    "错题/高数_02_真题真刷87-08_29.md",
-    "错题/高数_02_真题真刷87-08_28.md",
-    "高等数学/第二章 一元函数微分学.md",
-    "高等数学/连续且一点可导.md",
-    "错题/高数_02_真题真刷87-08_16.md",
-    "错题/高数_02_真题真刷87-08_13.md",
-    "错题/高数_02_真题真刷87-08_11.md",
-    "错题/高数_02_真题真刷87-08_10.md",
-    "错题/高数_02_真题真刷87-08_17.md",
-    "错题/高数_02_真题真刷87-08_8.md",
-    "错题/高数_02_30讲_4.1.md",
-    "错题/高数_02_30讲_3.11.md",
-    "错题/高数_02_30讲_3.1.注.md",
-    "错题/高数_02_真题真刷87-08_5.md",
-    "高等数学/高等数学.md",
-    "高等数学/第一章 函数、极限、连续.md",
-    "错题/高数_02_30讲_3.6.md",
-    "🏠Home.md",
-    "错题/高数_01_真题真刷87-08_20.md",
-    "错题/高数_02_30讲_4.19.md",
-    "高等数学/导数定义的广义化.md",
-    "template/错题-templater.md",
-    "错题/高数_02_30讲_3.3.md",
-    "template/template.md",
     "template/daily.md",
+    "daily/2026-06-23.md",
+    "daily/2026-06-21.md",
+    "daily/2026-06-22.md",
+    "daily/2026-06-20.md",
+    "daily/2026-06-19.md",
+    "daily/2026-06-18.md",
+    "daily/2026-06-17.md",
+    "daily/2026-06-16.md",
+    "daily/2026-06-15.md",
+    "daily/2026-06-14.md",
+    "daily/2026-06-13.md",
+    "daily/2026-06-12.md",
+    "daily/2026-06-11.md",
+    "daily/2026-06-10.md",
+    "🏠Home.md",
+    "README.md",
+    "Pomodoro Log.md.md",
+    "错题/高数_03_30讲_8.17.md",
+    "高等数学/第三章 一元函数积分学.md",
+    "高等数学/敛散性判别.md",
+    "高等数学/常见放缩不等式.md",
+    "高等数学/凑定积分定义.md",
+    "错题/高数_03_30讲_8.13.md",
+    "错题/高数_03_30讲_8.14.md",
+    "错题/高数_03_30讲_8.16.md",
+    "daily/assets/Pasted image 20260621185801.png",
+    "daily/assets/Pasted image 20260621185727.png",
+    "daily/assets",
+    "错题/错题.base",
     "art/assets/梅杜莎之筏.jpg",
     "art/assets",
     "art",
@@ -342,10 +323,7 @@
     "408/计算机组成原理",
     "408/assets/Pasted image 20260613024345.png",
     "408/assets/Pasted image 20260613024337.png",
-    "408/assets/Pasted image 20260613024334.png",
-    "408/assets/Pasted image 20260613024332.png",
     "408/assets",
-    "408",
     "未命名.canvas",
     "copy/政治/新思想/c 布局安排/11 以保障和改善民生为重点加强社会建设/考点106 发展与民生的关系.canvas",
     "copy/政治/新思想/d 内外条件/13 维护和塑造国家安全/考点125 发展和安全的关系.canvas",
